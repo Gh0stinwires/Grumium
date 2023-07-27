@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Reverse-Shell-master\ReverseShell\bin\Debug\ReverseShellClient.exe.config
+C:\Users\user\Desktop\Reverse-Shell-master\ReverseShell\bin\Debug\ReverseShellClient.exe
+C:\Users\user\Desktop\Reverse-Shell-master\ReverseShell\obj\Debug\ReverseShell.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Reverse-Shell-master\ReverseShell\obj\Debug\ReverseShell.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Reverse-Shell-master\ReverseShell\obj\Debug\ReverseShell.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Reverse-Shell-master\ReverseShell\obj\Debug\ReverseShellClient.exe
+C:\Users\user\Desktop\Reverse-Shell-master\ReverseShell\obj\Debug\ReverseShellClient.pdb
+C:\Users\user\Desktop\Reverse-Shell-master\ReverseShell\bin\Debug\ReverseShellClient.pdb
